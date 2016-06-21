@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Seek Bar - Tip Calculator</string>
+    <string name="percentTextView">15%</string>
+    <string name="tipTextView">$0.00</string>
+    <string name="totalTextView">$0.00</string>
+</resources>
